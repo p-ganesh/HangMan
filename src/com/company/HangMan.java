@@ -7,7 +7,7 @@ public class HangMan {
     int vowel, letter;
     private String [] vowels = {"a", "e", "i", "o", "u", "y", "r", "s", "t", "n"};
     private String [] letters = {"q", "w", "p", "d", "f", "g", "h", "j", "k", "l", "z", "x", "c", "v", "b", "n", "m"};
-    private String [] compWords = {"awkward", "bagpipes", "banjo", "bungler", "croquet", "crypt", "dwarves", "fervid",
+    private String [] compWords = {"awkward", "bagpipes", "banjo", "bungler", "croquet", "crypt", "dwarf", "fervid",
             "fishhook", "fjord", "gazebo", "Gypsy", "haiku", "haphazard", "hyphen", "ivory", "jazzy", "jiffy", "jinx",
             "jukebox", "kayak", "kiosk", "klutz", "memento", "mystify", "numbskull", "ostracize", "oxygen", "pajama",
             "phlegm", "pixel", "polka", "quoad", "quip", "rhythmic", "rogue", "sphinx", "squawk", "swivel", "toady",
