@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class HangMan {
     private ArrayList<String> charsTarget = new ArrayList<String>();
     int vowel, letter;
+
     private String [] vowels = {"a", "e", "i", "o", "u", "y", "r", "s", "t", "n"};
     private String [] letters = {"q", "w", "p", "d", "f", "g", "h", "j", "k", "l", "z", "x", "c", "v", "b", "n", "m"};
     private String [] compWords = {"awkward", "bagpipes", "banjo", "bungler", "croquet", "crypt", "dwarf", "fervid",
